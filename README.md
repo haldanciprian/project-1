@@ -1,2 +1,2 @@
 # project-1
-for project 1
+LAMP (Linux, Apache, MySQL, PHP or Python, or Perl)
